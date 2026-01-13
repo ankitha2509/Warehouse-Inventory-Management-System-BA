@@ -1,0 +1,1 @@
+This project demonstrates Jira-based Agile project management for a Warehouse Inventory Management System. The project includes epics, user stories, tasks, sprint planning, and board tracking. It showcases practical exposure to backlog management, sprint execution, and workflow tracking using Jira.
